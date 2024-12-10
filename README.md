@@ -14,7 +14,7 @@ El desarrollo de este proyecto ha sido un desafío enriquecedor, ya que implicó
 
 Se debe tener instalado MySql 8.0.32 y haber configurado el path para poder emplear los comandos psql en la terminal. En caso de solo tener instalado el MySql, se debe crear una base de datos en blanco llamada 'sintaddatabase' y ejecutar el script sql adjunto en el correspondiente gestor de base de datos de MySql que uses.
 
- - Se adjunta un archivo mysql-script en donde se encuentra un cmd para automatizar la creación de la bbdd ejecutando generate-database-mysql.cmd, y en caso que no se pueda. Ejecutar el contenido del archivo sql.
+ - Se adjunta una carpeta mysql-script en donde se encuentra un cmd para automatizar la creación de la bbdd ejecutando generate-database-mysql.cmd, y en caso que no se pueda. Ejecutar el contenido del archivo sql.
 
  - Comprobar que se ha creado correctamente la base de datos 'sintaddatabase' y sus tablas.
 
